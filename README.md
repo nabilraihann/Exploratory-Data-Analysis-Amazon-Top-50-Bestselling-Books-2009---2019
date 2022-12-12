@@ -5,3 +5,6 @@
 Data source
 
 [Amazon Top 50 Bestselling Books 2009 - 2019](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12ofZ6d5M9f5pW_fi01itGgXtCBrT0__Z?usp=sharing)
+
